@@ -1,6 +1,7 @@
 # Rock-Paper-Scissors-Game
 The Rock-Paper-Scissors Game is a simple, interactive web-based game built using HTML, CSS, and JavaScript. It allows the user to play the classic game against a computer with real-time score tracking and dynamic, responsive feedback.
 
+
 📋 Project Description
 + This is a simple web-based Rock-Paper-Scissors game where:
 
@@ -9,6 +10,7 @@ The Rock-Paper-Scissors Game is a simple, interactive web-based game built using
 + The computer randomly selects its move
 
 + The result is displayed instantly with score tracking and interactive messages
+
 
   📂 Project Structure
   ├── index.html        # Main HTML structure
@@ -23,6 +25,7 @@ The Rock-Paper-Scissors Game is a simple, interactive web-based game built using
 + CSS3
 
 + JavaScript
+
 
 🎮 Features
 + ✅ Real-time score tracking
@@ -39,7 +42,8 @@ The Rock-Paper-Scissors Game is a simple, interactive web-based game built using
 
 + ✅ Responsive layout (basic)
 
-  📌 Future Improvements
+
+📌 Future Improvements
 + 🎯 Add a Reset Button to restart the game
 
 + 🎯 Show Computer's choice emoji visually
@@ -49,3 +53,12 @@ The Rock-Paper-Scissors Game is a simple, interactive web-based game built using
 + 🎯 Improve mobile responsiveness
 
 + 🎯 Add animations for result transitions
+
+
+⚙️ How to Run Locally
++ Clone the repository: git clone https://github.com/your-username/rock-paper-scissors.git
++ Open the index.html file in your web browser.
+
+🤝 Contributing
+Contributions, issues, and feature requests are welcome!
+Feel free to fork this project and submit a pull request.
